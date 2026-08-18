@@ -20,5 +20,5 @@ The application is strictly designed following Object-Oriented Programming (OOP)
 
 1. **Clone the repository:**
    ```bash
-  git clone https://github.com/ganeshcharantej/FOSSEE-GUI-Runner.git
-cd FOSSEE-GUI-Runner
+    git clone https://github.com/ganeshcharantej/FOSSEE-GUI-Runner.git
+   cd FOSSEE-GUI-Runner
