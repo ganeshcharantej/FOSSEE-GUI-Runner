@@ -22,3 +22,4 @@ The application is strictly designed following Object-Oriented Programming (OOP)
    ```bash
     git clone https://github.com/ganeshcharantej/FOSSEE-GUI-Runner.git
    cd FOSSEE-GUI-Runner
+Note: The compiled executable and its runtime DLLs are too large for standard GitHub files. Please download model_build.zip from the Releases section on the right side of this page and extract it into the main project folder before running.
